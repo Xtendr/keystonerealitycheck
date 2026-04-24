@@ -1,10 +1,10 @@
 ## Interface: 120000, 120001, 120005
-## Title: Keystone Reality Check
-## Notes: Anti-tier-list LFG companion — shows spec success data in applicant tooltips.
+## Title: Keystone Synergy Check
+## Notes: Group synergy companion — highlights what each applicant adds to your comp.
 ## Author: Xtendr
-## Version: 0.1.0
-## SavedVariables: KeystoneRealityCheckDB
-## IconTexture: Interface\AddOns\KeystoneRealityCheck\Assets\KRC_logo
+## Version: 0.2.0
+## SavedVariables: KeystoneSynergyCheckDB
+## IconTexture: Interface\AddOns\KeystoneSynergyCheck\Assets\KRC_logo
 ## X-Curse-Project-ID: CHANGEME
 
 libs\LibStub\LibStub.lua
@@ -12,6 +12,6 @@ libs\LibDBIcon-1.0\CallbackHandler-1.0\CallbackHandler-1.0.lua
 libs\LibDBIcon-1.0\LibDataBroker-1.1\LibDataBroker-1.1.lua
 libs\LibDBIcon-1.0\LibDBIcon-1.0\LibDBIcon-1.0.lua
 
+SpecDatabase.lua
 Data.lua
-SpecUtility.lua
-KeystoneRealityCheck.lua
+KeystoneSynergyCheck.lua
