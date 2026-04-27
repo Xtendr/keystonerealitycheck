@@ -2,7 +2,7 @@
 ## Title: Keystone Synergy Check
 ## Notes: Group synergy companion — highlights what each applicant adds to your comp.
 ## Author: Xtendr
-## Version: 0.2.2
+## Version: 0.2.3
 ## SavedVariables: KeystoneSynergyCheckDB
 ## IconTexture: Interface\AddOns\KeystoneSynergyCheck\Assets\KRC_logo
 ## X-Curse-Project-ID: CHANGEME
